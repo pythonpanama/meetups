@@ -1,2 +1,2 @@
-# pagina-reuniones
-Página de llegada para las reuniones
+# Meetups
+Meetups de la comunidad de Python Panamá
