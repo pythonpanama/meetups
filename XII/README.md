@@ -1,4 +1,4 @@
-### MEETUP VOLUMEN XII
+### VOLUMEN XII
 #### - Haciendo Comunidad
 __Por:__ Speakers from Mexico
 
